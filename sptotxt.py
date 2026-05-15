@@ -6,8 +6,8 @@ from aiogram.types import Message
 from aiogram.filters import CommandStart
 
 # 🔑 KALITLARNI SHU YERGA YOZING
-BOT_TOKEN = "8396537696:AAGO1_BqEr-xDGoB5cje55ZJ6GnPQDxP4LM"
-REV_AI_API_KEY = "02xQa30w9gRV-yf5rEU7FrbnOwYSh1eunePYwryTK2VG8zIs6TBhYSpxWDAYtiDEsFwHXZJXjB1IvQsRTaKGd0X1V3pPE"
+BOT_TOKEN = "<TG Bot Token>"
+REV_AI_API_KEY = "<Your AI API key>"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
